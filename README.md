@@ -1,1 +1,5 @@
-# Projeto Clusterização Food - guilherme
+# Projeto Clusterização Food
+
+## aprendendo a usar terminal.
+### testando terminal.
+#### teste2
