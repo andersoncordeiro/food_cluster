@@ -1,2 +1,3 @@
-# Projeto Clusterização Food
-## Alterações do Bruno
+## aprendendo a usar terminal.
+### testando terminal.
+#### test
